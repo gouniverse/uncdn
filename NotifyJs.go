@@ -1,4 +1,4 @@
-package ucdn
+package uncdn
 
 import "github.com/gouniverse/uncdn/templates"
 
