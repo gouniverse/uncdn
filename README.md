@@ -1,6 +1,6 @@
 # uncdn
 
-![tests](https://github.com/gouniverse/uncdn/workflows/test/badge.svg)
+![tests](https://github.com/gouniverse/uncdn/workflows/tests/badge.svg)
 
 ## Installation
 
