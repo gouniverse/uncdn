@@ -1,15 +1,12 @@
 package templates
 
 import (
-	"embed"
+	"io/ioutil"
 	"log"
 )
 
-//go:embed *
-var files embed.FS
-
 func ToString(path string) string {
-	contentBytes, err := files.ReadFile(path)
+	contentBytes, err := ioutil.ReadFile(path)
 	if err != nil {
 		log.Println("Template: " + path + " NOT FOUND")
 		return ""
