@@ -1,7 +1,5 @@
 package uncdn
 
-package uncdn
-
 import (
 	"strings"
 	"testing"
