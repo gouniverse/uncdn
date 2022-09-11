@@ -7,7 +7,7 @@ import (
 
 func TestBootstrapJs521(t *testing.T) {
 	output := BootstrapJs521()
-	expected := "Bootstrap v5.2.1"
+	expected := "data-bs-no-jquery"
 	if !strings.Contains(output, expected) {
 		t.Error("Does not contain '" + expected + "', Output:" + output)
 	}
