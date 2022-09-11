@@ -1,4 +1,4 @@
-module.exports = function date (format, timestamp) {
+function date (format, timestamp) {
   //  discuss at: https://locutus.io/php/date/
   // original by: Carlos R. L. Rodrigues (https://www.jsfromhell.com)
   // original by: gettimeofday
