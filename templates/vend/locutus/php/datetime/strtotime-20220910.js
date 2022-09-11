@@ -1215,7 +1215,7 @@ const resultProto = {
   }
 }
 
-module.exports = function strtotime (str, now) {
+function strtotime (str, now) {
   //       discuss at: https://locutus.io/php/strtotime/
   //      original by: Caio Ariede (https://caioariede.com)
   //      improved by: Kevin van Zonneveld (https://kvz.io)
