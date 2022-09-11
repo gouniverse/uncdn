@@ -7,7 +7,7 @@ import (
 
 func TestJquerySmartMenusJs110(t *testing.T) {
 	output := JquerySmartMenusJs110()
-	expected := ".container,.container-lg,.container-md,.container-sm,.container-xl"
+	expected := "$.SmartMenus"
 	if !strings.Contains(output, expected) {
 		t.Error("Does not contain '" + expected + "', Output:" + output)
 	}
