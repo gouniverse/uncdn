@@ -26,6 +26,12 @@ This library is an attemp to take the control back from CDNs, while keeping all 
 go get github.com/gouniverse/uncdn
 ```
 
+## How to Use
+
+```golang
+uncdn.JQuery360()
+```
+
 ## Notable Articles
 
 - https://www.maxlaumeister.com/articles/3-reasons-not-to-use-a-cdn/
