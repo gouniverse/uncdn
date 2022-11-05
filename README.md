@@ -37,3 +37,27 @@ uncdn.JQuery360()
 - https://www.maxlaumeister.com/articles/3-reasons-not-to-use-a-cdn/
 
 - https://ericsachsseo.com/to-use-a-cdn-or-not-to-use-a-cdn/
+
+## Methods
+
+### JQuery
+
+- Jquery360() string
+
+### JQuery UI
+
+- JqueryUiCss1132() string
+- JqueryUiJs1132() string
+
+### SweetAlert 2
+
+- SweetAlert2_11432() string
+
+### VueJs 3
+
+- VuewJs3() string
+
+### WebJS
+
+- WebJs260() string
+
