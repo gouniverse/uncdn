@@ -69,3 +69,4 @@ source (https://github.com/zavoloklom/material-design-color-palette)
 
 ## ToDo
 - https://github.com/bansal/filters.css
+- https://github.com/parkerbennett/stackicons
