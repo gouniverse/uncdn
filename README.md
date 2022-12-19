@@ -49,6 +49,11 @@ uncdn.JQuery360()
 - JqueryUiCss1132() string
 - JqueryUiJs1132() string
 
+## Material Design Color Palette 1.1 
+source (https://github.com/zavoloklom/material-design-color-palette)
+
+- MaterialDesignColorPaletteCss11() string
+
 ### SweetAlert 2
 
 - SweetAlert2_11432() string
