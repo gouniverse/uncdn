@@ -40,6 +40,13 @@ uncdn.JQuery360()
 
 ## Methods
 
+### Bootstrap
+
+- BootstrapCss523() string
+- BootstrapJS523() string
+- BootstrapCeruleanCss523() string - the Cerulean theme
+- BootstrapYetiCss523() string - the Yeti theme
+
 ### JQuery
 
 - Jquery360() string
