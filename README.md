@@ -46,6 +46,7 @@ uncdn.JQuery360()
 - BootstrapJS523() string
 - BootstrapCeruleanCss523() string - the Cerulean theme
 - BootstrapYetiCss523() string - the Yeti theme
+- + all the themes from: https://bootswatch.com/
 
 ### JQuery
 
